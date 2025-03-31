@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Debapratik
 - 👀 I’m interested in Learning about the evolving cyber space and AI
 - 🌱 I’m currently learning C
+- Working On C++ rigt now
 - 📫 How to reach me X: @Deba_pratik
 
 <!---
